@@ -1,0 +1,152 @@
+.card {
+  width: 232px;
+  height: 400px;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 32px;
+  margin-left: 1.8vw;
+
+  p {
+    margin: 0;
+  }
+  .content {
+    padding: 8px;
+  }
+  .wishlist {
+    visibility: hidden;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    bottom: 80px;
+    background-color: white;
+    height: 48px;
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      text-transform: uppercase;
+      border: 1px solid #d4d5d9;
+      padding: 4px 8px;
+      width: 90%;
+      svg {
+        width: 16px;
+        height: 16px;
+        margin-right: 8px;
+      }
+    }
+    .buttonActive {
+      background-color: #3e4152;
+      color: white;
+      svg {
+        path {
+          fill: #ff3f6c;
+        }
+      }
+    }
+  }
+
+  .similar {
+    visibility: hidden;
+    position: absolute;
+    bottom: 38%;
+    right: 8%;
+    z-index: 11;
+    background-color: white;
+    width: fit-content;
+    border-radius: 16px;
+    display: flex;
+    padding: 2px 12px;
+    align-items: center;
+    svg {
+      path {
+        fill: #ff3f6c;
+      }
+    }
+    transition: all 0.1s ease-in-out;
+    button{
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+    }
+    &:hover {
+      width: fit-content;
+      // &::after {
+      //   content: "View Similar";
+      // }
+    }
+  }
+  img{
+    width: 100%;
+    
+  }
+
+  .removeFromWishlist {
+    position: absolute;
+    top: 16px;
+    right: 10px;
+    background-color: #e9e9eb;
+    border-radius: 100%;
+    svg {
+      path {
+        fill: #282c3f;
+      }
+    }
+  }
+
+  .brand {
+    font-weight: 700;
+  }
+  .product {
+    font-size: 12px;
+    padding-top: 4px;
+  }
+  .priceContainer {
+    padding-top: 4px;
+  }
+  .price {
+    font-weight: 12px;
+    font-weight: 700;
+    padding-right: 8px;
+  }
+
+  .originalPrice {
+    text-decoration: line-through;
+    padding-right: 8px;
+  }
+  .discount {
+    color: #ff3f6c;
+  }
+
+  &:hover {
+    .wishlist,
+    .similar {
+      visibility: visible;
+    }
+
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 5%);
+  }
+}
+
+.card-wishlist {
+  height: 418px;
+  outline: 1px solid #e9e9eb;
+
+  .moveToBag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4px;
+    padding: 8px 0;
+    outline: 1px solid #e9e9eb;
+    button {
+      color: #ff3f6c;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+  }
+}
