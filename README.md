@@ -1,6 +1,6 @@
 # GoComet Frontend Intern Assessment
 Project Live URL ✨- <a href="https://myntra-gocomet.vercel.app/" target="_blank">myntra-gocomet.vercel.app</a> <br />
-Project Demo Video 🎥- <a href="https://drive.google.com/file/d/1L_NbUpKO2cE-CLcV5uu6NTcXDwiH-cEW/view?usp=share_link" target="_blank">Demo Video Google Drive Link </a>
+Project Demo Video 🎥- <a href="https://drive.google.com/file/d/1MlsyGC01bAw-rcfeP9Ibx4H3a5s2ishc/view?usp=share_link" target="_blank">Demo Video Google Drive Link </a>
 
 ## Project Details :
 Project Title:  **Myntra Clone**
@@ -29,12 +29,14 @@ Project Description:
 
 ## Project Images : 
 
-![image](https://user-images.githubusercontent.com/73326287/204692611-e8ebfbd0-8f93-4f62-830f-f70a260aba8e.png)
-![image](https://user-images.githubusercontent.com/73326287/204692719-e445ed96-6383-4462-b263-f016a69c9ec6.png)
-![image](https://user-images.githubusercontent.com/73326287/204693029-1e3a6442-f298-4971-9a3e-709d7239bca8.png)
-![image](https://user-images.githubusercontent.com/73326287/204693163-8b3c0af1-fa07-4225-8fee-f55f11fb2abb.png)
-![image](https://user-images.githubusercontent.com/73326287/204693222-544e58af-a8ff-4633-8484-480e72c87b3e.png)
-![image](https://user-images.githubusercontent.com/73326287/204693278-b524d4f4-e899-48c1-940e-1f5f6f95ba35.png)
-![image](https://user-images.githubusercontent.com/73326287/204693342-7a96061d-a3c6-41f4-b085-1675eebca344.png)
-![image](https://user-images.githubusercontent.com/73326287/204693437-e12837ba-524b-4055-9913-6b39691c973d.png)
+![image](https://user-images.githubusercontent.com/73326287/226230448-0f758451-7098-4308-81b4-bd05e8114c3b.png)
+![image](https://user-images.githubusercontent.com/73326287/226230489-dd9ea377-69a8-477c-bb48-cfe17b1896dd.png)
+![image](https://user-images.githubusercontent.com/73326287/226230529-56b0c1ef-d1ff-45a2-a8e6-2f7bb7552bae.png)
+![image](https://user-images.githubusercontent.com/73326287/226230556-30ab5442-22a1-4ae6-b8eb-fb4e545012dc.png)
+![image](https://user-images.githubusercontent.com/73326287/226230582-4bd7be01-6e33-4f73-b59f-5e27f3dae03d.png)
+![image](https://user-images.githubusercontent.com/73326287/226230619-26933cf1-2a88-45c2-a549-e07ebf121915.png)
+![image](https://user-images.githubusercontent.com/73326287/226230656-70712421-5e17-426b-a2c5-76b3daafe42a.png)
+![image](https://user-images.githubusercontent.com/73326287/226230686-24af3d20-e020-4894-a781-532f9a7542ef.png)
+![image](https://user-images.githubusercontent.com/73326287/226230777-be94e6ae-11e8-45d3-b03b-5238b9b7adc0.png)
+
 
