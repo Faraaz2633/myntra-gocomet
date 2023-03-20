@@ -3,7 +3,7 @@ Project Live URL ✨- <a href="https://myntra-gocomet.vercel.app/" target="_blan
 Project Demo Video 🎥- <a href="https://drive.google.com/file/d/1MlsyGC01bAw-rcfeP9Ibx4H3a5s2ishc/view?usp=share_link" target="_blank">Demo Video Google Drive Link </a>
 
 ## Project Details :
-Project Title:  **Myntra Clone**
+Project Title:  **Myntra Clone** <br/>
 Project Description:
 - Tech Stacks: ***React.js, JavaScript, Ant Design, SCSS***
 - Responsiveness: ✅
